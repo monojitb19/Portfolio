@@ -1,0 +1,13 @@
+{
+  "name": "Movie Dashboard Theme - Teal & Neon",
+  "dataColors": ["#204051", "#3B6978", "#F9DC5C", "#FFD700", "#D62828", "#003049"],
+  "background": "#D3E2DC",
+  "foreground": "#222222",
+  "tableAccent": "#3B6978",
+  "visualStyles": {
+    "*": {
+      "color": { "solid": { "color": "#222222" } },
+      "background": { "solid": { "color": "#D3E2DC" } }
+    }
+  }
+}
