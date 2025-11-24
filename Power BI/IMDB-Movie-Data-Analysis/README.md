@@ -1,12 +1,12 @@
 # 🎬 IMDb Movie Data Analysis — Power BI Dashboard
 
-## 📘 Overview
+## Overview
 This Power BI dashboard analyzes IMDb movie data to uncover patterns in financial performance, ratings, genres, and key contributors.  
 The goal is to understand what drives movie success and how industry trends evolved over nearly a century.
 
 ---
 
-## 📏 Metrics Snapshot
+## Metrics Snapshot
 - **Movies Analyzed:** 4,000+  
 - **Avg IMDb Score:** 6.46  
 - **Total Gross Revenue:** $191.9B  
@@ -16,7 +16,7 @@ The goal is to understand what drives movie success and how industry trends evol
 
 ---
 
-## ✨ Dashboard Features
+## Dashboard Features
 - Genre performance by revenue, ratings, and ROI  
 - Top directors, actors, and their contribution to box office success  
 - Budget, gross, and IMDb score trends across decades  
@@ -25,7 +25,7 @@ The goal is to understand what drives movie success and how industry trends evol
 
 ---
 
-## 📈 Analytical Insights
+## Analytical Insights
 - **Adventure, Action, and Comedy** lead global box office revenue  
 - **Film-Noir and Documentary** deliver the highest average IMDb scores and ROI  
 - **High budgets do not strongly predict higher IMDb ratings**  
@@ -34,7 +34,7 @@ The goal is to understand what drives movie success and how industry trends evol
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 - Building multi-page, insight-driven dashboards  
 - Creating calculated fields and profitability metrics using **DAX**  
 - Structuring raw datasets for clean **Power BI data models**  
@@ -45,3 +45,4 @@ The goal is to understand what drives movie success and how industry trends evol
 
 ## 🖼️ Dashboard Snapshot
 ![Overview Page](overview.png)
+
