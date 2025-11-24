@@ -1,11 +1,11 @@
-# 📘 Bank Marketing SQL & Python Analysis
+# Bank Marketing SQL & Python Analysis
 
 This project analyzes the **Bank Marketing Dataset** using **PostgreSQL (SQL)** and **Python (Jupyter Notebook)**.  
 The goal is to identify customer groups most likely to subscribe to a **term deposit**, and understand which attributes contribute to higher conversion rates.
 
 ---
 
-## 🧠 Highlights
+## Highlights
 
 ### 🔹 SQL Analysis
 - Clean SQL schema creation + CSV import
@@ -26,7 +26,7 @@ The goal is to identify customer groups most likely to subscribe to a **term dep
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 - Occupations like **students** and **retired** show higher conversion rates  
 - **Cellular contact** performs significantly better than telephone  
 - Conversion varies across **education levels** and **age groups** 
@@ -35,7 +35,7 @@ The goal is to identify customer groups most likely to subscribe to a **term dep
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - **PostgreSQL**
 - **DBeaver** (SQL execution & database exploration)
 - **Python (Pandas, Matplotlib)**
