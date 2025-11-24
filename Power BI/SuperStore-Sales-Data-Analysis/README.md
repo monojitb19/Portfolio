@@ -1,12 +1,12 @@
-# 📊 Superstore Sales Data Analysis Dashboard (Power BI)
+# Superstore Sales Data Analysis Dashboard (Power BI)
 
-## 🧠 Project Overview
+## Project Overview
 This project presents a **comprehensive Power BI dashboard** built using the *SuperStore Sales* dataset.  
 The dashboard provides insights into **sales performance, profitability, customer trends, and product performance** across multiple dimensions such as region, category, and customer segments.
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 
 **File:** `superstore sales dataset_sanitized.csv`  
 **Source:** Fictional Superstore dataset (commonly used for BI and data visualization practice).
@@ -38,7 +38,7 @@ The dashboard provides insights into **sales performance, profitability, custome
 
 ---
 
-## 🧮 Key Metrics
+## Key Metrics
 
 | Metric | Description |
 |---------|--------------|
@@ -51,31 +51,31 @@ The dashboard provides insights into **sales performance, profitability, custome
 
 ---
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 
-### **1️⃣ Overview Page**
+### **1️ Overview Page**
 - Displays KPIs for Total Sales, Profit, Orders, and Quantity with YoY growth.
 - Dynamic date filters and region filters.
 - Sales trend from 2019–2022.
 
-### **2️⃣ Regional & Category Analysis**
+### **2️ Regional & Category Analysis**
 - Sales and profit breakdown by region and category.
 - Regional performance comparison table.
 - Top 5 states by sales (map visualization using Azure Maps).
 
-### **3️⃣ Customer Analysis**
+### **3️ Customer Analysis**
 - Customer ranking by sales performance.
 - YoY customer growth and rank change indicators.
 - Top customers contributing to overall sales and profit.
 
-### **4️⃣ Product Analysis**
+### **4️ Product Analysis**
 - Top 5 products by category.
 - Sales vs. Profit scatter chart to identify high-profit and high-sales items.
 - Sub-category trend comparison over years.
 
 ---
 
-## 🧭 Key Insights
+## Key Insights
 
 | Category | Insight |
 |-----------|----------|
@@ -93,7 +93,7 @@ The dashboard provides insights into **sales performance, profitability, custome
 
 ---
 
-## 💡 Project Learnings
+## Project Learnings
 
 | Area | Key Learning |
 |-------|---------------|
@@ -107,7 +107,7 @@ The dashboard provides insights into **sales performance, profitability, custome
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|----------|
@@ -120,7 +120,7 @@ The dashboard provides insights into **sales performance, profitability, custome
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ### Overview
 ![Overview Page](Visuals/overview.png)
@@ -133,7 +133,7 @@ The dashboard provides insights into **sales performance, profitability, custome
 
 ---
 
-## 💭 Future Improvements
+## Future Improvements
 
 Integrate forecasting visuals to predict next-year sales and profit.
 <br>Add drill-through and tooltip pages for detailed customer-level insights.
