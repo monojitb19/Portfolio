@@ -9,7 +9,7 @@ This project uses <strong>Python</strong>, <strong>Pandas</strong>, <strong>NumP
 <hr>
 
 <p align="center">
-  <img src="banner.jpg" alt="IMBb Data Analysis Banner" width="800"><br>
+  <img src="banner.jpg" alt="IMBb Data Analysis Banner" width="1080"><br>
 </p>
 
 <h2> Project Overview</h2>
